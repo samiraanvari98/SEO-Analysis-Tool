@@ -6,4 +6,4 @@
 - Set the source branch to `main` and the folder to `/docs`.
 
 ## Deployment
-Ensure the documentation is built and placed in the `/docs` folder.
+Ensure the documentation is built and placed in the `/docs` folder .
